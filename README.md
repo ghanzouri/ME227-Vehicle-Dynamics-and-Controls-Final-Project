@@ -1,0 +1,3 @@
+# ME227-Vehicle-Dynamics-and-Controls-Final-Project
+
+This project aims to design a vehicle controller to track a path by controlling the speed and steering.  Thedesired  path  consists  of  two  laps  around  a  parking  lot,  forming  an  oval,  where  the  straight  and  curvedportions are joined by clothoids.  The speed controller uses a feedback/feedforward approach, whereas twoseparate steering controllers were designed.  The first approach uses a lookahead method, while the seconduses a linear-quadratic regulator (LQR) formulation.  These controllers were tested against simulations ofvarying fidelity.
